@@ -35,3 +35,4 @@ My goal is to become a skilled Data Engineer while developing strong Database Pr
 
 This repository will contain hands-on labs, practice exercises, notes, and real-world data engineering projects.
 
+- Git branching, merging, and pull requests
