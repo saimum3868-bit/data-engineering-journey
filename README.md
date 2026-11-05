@@ -1,60 +1,38 @@
 # My Journey
-
-Today we learned git
-
 # Data Engineering Journey
 
 ## About This Repository
-This repository contains my Data Engineering learning notes,
-hands-on labs, practice exercises, and projects.
+
+This repository documents my learning journey in Data Engineering, Database Programming, Database Administration, Data Science, and Machine Learning.
 
 ## About Me
-My name is Saimum Arafat.
-I am learning Data Engineering and Database Technologies.
 
-My career goals include Data Engineering,
-Database Programming, Database Administration,
-Data Science, and Machine Learning.
+My name is Saimum Arafat. I am a beginner learner interested in building practical skills in data technologies.
+
+My goal is to become a skilled Data Engineer while developing strong Database Programming and Database Administration skills.
 
 ## Learning Progress
+
 - Linux and Ubuntu WSL
 - Python fundamentals
 - Git and GitHub
 - CSV file exploration
 - Linux log analysis
 - PostgreSQL fundamentals
+- Database programming
 
+## Tools and Technologies
 
+- Python
+- SQL
+- PostgreSQL
+- MySQL
+- Git and GitHub
+- Linux / Ubuntu
+- VS Code
 
-# আমার Data Engineering যাত্রা
+## Projects
 
-Ostad Data Engineering Bootcamp, ব্যাচ ০১ — অক্টোবর ২০২৬ থেকে।
+This repository will contain hands-on labs, practice exercises, notes, and real-world data engineering projects.
 
-এখানে আমার Data Engineering শেখার ছয় মাসের কাজ, অনুশীলন এবং প্রজেক্টগুলো সংরক্ষণ করব।
-
-## আমি কে
-
-আমি Data Engineering, Database Programming এবং Database Administration (DBA) শিখছি।  
-ডেটা নিয়ে কাজ করার দক্ষতা তৈরি করতে এবং বাস্তব Data Project তৈরি করতে চাই।
-
-## এখন পর্যন্ত যা শিখেছি
-
-| সপ্তাহ | বিষয় | কাজ |
-|---|---|---|
-| ১ | Data Engineering-এর পরিচয়, Linux command line | Linux command practice, CSV exploration এবং log analysis |
-| ২ | Git, GitHub, Python-এর শুরু | Git repository, commit, branch এবং GitHub workflow অনুশীলন করছি |
-
-## কী দিয়ে কাজ করি
-
-Python · SQL · PostgreSQL · Linux · Ubuntu WSL · Git · GitHub · VS Code
-
-## আমার শেখার লক্ষ্য
-
-- Data Engineering-এর বাস্তব দক্ষতা তৈরি করা
-- Database Programming ও DBA শেখা
-- Data Analysis, Data Science এবং Machine Learning-এর ভিত্তি শক্ত করা
-- বাস্তব Data Project তৈরি করা
-
-## যোগাযোগ
-
-LinkedIn: পরে যোগ করব
+- Git branching, merging, and pull requests
