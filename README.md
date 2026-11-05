@@ -1,15 +1,21 @@
-# My Journey
-# Data Engineering Journey
+# আমার Data Engineering যাত্রা
 
-## About This Repository
+Ostad Data Engineering Bootcamp, ব্যাচ ০১ — অক্টোবর ২০২৬ থেকে।
 
-This repository documents my learning journey in Data Engineering, Database Programming, Database Administration, Data Science, and Machine Learning.
+এখানে আমার Data Engineering শেখার ছয় মাসের কাজ, অনুশীলন এবং প্রজেক্টগুলো সংরক্ষণ করব।
 
-## About Me
+## আমি কে
 
-My name is Saimum Arafat. I am a beginner learner interested in building practical skills in data technologies.
+আমি Saimum E Arafat। আমি Data Engineering, Database Programming এবং Database Administration (DBA) শিখছি।
 
-My goal is to become a skilled Data Engineer while developing strong Database Programming and Database Administration skills.
+ডেটা নিয়ে কাজ করার দক্ষতা তৈরি করতে এবং বাস্তব Data Project তৈরি করতে চাই।
+
+## এখন পর্যন্ত যা শিখেছি
+
+| সপ্তাহ | বিষয় | কাজ |
+|---|---|---|
+| ১ | Data Engineering-এর পরিচয়, Linux command line | Linux command practice, CSV exploration এবং log analysis |
+| ২ | Git, GitHub, Python-এর শুরু | Git repository, commit, branch এবং GitHub workflow অনুশীলন |
 
 ## Learning Progress
 
@@ -19,20 +25,20 @@ My goal is to become a skilled Data Engineer while developing strong Database Pr
 - CSV file exploration
 - Linux log analysis
 - PostgreSQL fundamentals
-- Database programming
 
-## Tools and Technologies
+## কী দিয়ে কাজ করি
 
-- Python
-- SQL
-- PostgreSQL
-- MySQL
-- Git and GitHub
-- Linux / Ubuntu
-- VS Code
+Python · SQL · PostgreSQL · Linux · Ubuntu WSL · Git · GitHub · VS Code
 
-## Projects
+## আমার শেখার লক্ষ্য
 
-This repository will contain hands-on labs, practice exercises, notes, and real-world data engineering projects.
+- Data Engineering-এর বাস্তব দক্ষতা তৈরি করা
+- Database Programming ও DBA শেখা
+- Data Analysis, Data Science এবং Machine Learning-এর ভিত্তি শক্ত করা
+- বাস্তব Data Project তৈরি করা
 
-- Git branching, merging, and pull requests
+## যোগাযোগ
+
+GitHub: https://github.com/saimum3868-bit/data-engineering-journey
+
+LinkedIn: পরে যোগ করব
